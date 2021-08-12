@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FundacionBlockchainChile
 - 👀 I’m interested in Blockchain Tech and free software solutions for todays problems.
-- 🌱 I’m currently buildng on React, Node, Solidity, Typescript, GraphQl and others...
+- 🌱 I’m currently buildng on React, Node, Solidity, Typescript, GraphQl, Ruby on Rails and others...
 - 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me scastrof@gmail.com
 
